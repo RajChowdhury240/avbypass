@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>🐈 AV Bypass</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on 🐈 AV Bypass</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>AV Bypass using Sliver C2 Shellcode For this demo i will be using a Windows AD machine called Delegate from Vulnlab Platform! Huge shout out to xct for the platform!! so lets start i have ...</description>
+    <pubDate>Fri, 07 Mar 2025 14:36:31 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
